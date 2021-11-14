@@ -176,7 +176,7 @@ font-size: 17px;
 }
 
 .cloud .grid{
-    grid-template-columns:70% 30%;
+    grid-template-columns:65% 30%;
 }
 
 .cloud h2{
@@ -277,7 +277,7 @@ footer{
 
 .features-head .container,
 .features-subhead .container{
-    padding: 45px 0px;
+    padding: 45px 20px;
 }
 
 .features-subhead{
